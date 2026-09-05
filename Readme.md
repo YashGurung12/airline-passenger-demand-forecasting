@@ -1,5 +1,8 @@
 # Airline Passenger Demand Forecasting & Granularity Analysis
 
+<img width="1542" height="794" alt="Business Insights" src="https://github.com/user-attachments/assets/efde1cc0-9244-4385-8886-53745d4a0479" />
+
+
 ## 📌 Project Overview
 This project presents an end-to-end time series analysis and forecasting framework using the classic **Airline Passengers dataset (1949–1960)**. The primary objective is evaluating multi-frequency resampling techniques—converting low-frequency monthly aggregate data into high-frequency daily and hourly granularities—and building robust statistical models to forecast future passenger demand.
 
